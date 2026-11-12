@@ -7,7 +7,7 @@ the accompanying manuscript.
 
 ### 1. SLDCRB–most-informative gap persistence
 
-[View Jupyter notebook](notebooks/01_sld_mi_counterexample.ipynb)
+[View Jupyter notebook](01_sld_mi_counterexample.ipynb)
 
 Three-parameter, rank-deficient counterexample demonstrating
 that the gap between the SLD Cramér–Rao bound and the most
@@ -18,7 +18,7 @@ certificate consisting of ten positive-definite matrices.
 
 ### 2. Two-parameter counterexample (Appendix D.2)
 
-[View Jupyter notebook](notebooks/02_appendix_D2.ipynb)
+[View Jupyter notebook](02_appendix_D2.ipynb)
 
 Explicit two-parameter counterexample demonstrating
 two-copy attainability despite a strict single-copy gap.
